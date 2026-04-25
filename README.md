@@ -12,7 +12,7 @@ workflow from raw data cleaning to executive dashboard delivery.
 ---
 
 ## Dashboard Preview
-![Sales Dashboard](Sales_Performance_Analysis.png)
+![Sales Dashboard](Sales_Performance_Analysis_Dashboard.png)
 
 ---
 
